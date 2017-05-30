@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "面對改變"
+title:  "Ghost Blog 首篇"
 date:   2015-01-11
 categories: 部落格
 ---

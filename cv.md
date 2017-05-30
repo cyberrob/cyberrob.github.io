@@ -1,3 +1,8 @@
+---
+title: "CV"
+layout: cv
+---
+
 ##Summary
 Has developed Android app for >5 years. Some projects are developed with teams, some are by myself. A raspberry Pi lover. Also read C#, Objective-C, Javascript, CSS, SQL, Qt/QML, Ruby/Rails, VBA. Excited about any technology lead us to whatever chocolate will get.
 

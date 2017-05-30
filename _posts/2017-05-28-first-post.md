@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "美國最高法院通過同性婚姻合法"
+date:   2015-06-26
+categories: 生活 婚姻
+---
+
 根據[美國最高法院投票結果](http://www.slate.com/blogs/the_slatest/2015/06/26/supreme_court_legalizes_gay_marriage_here_is_the_beautiful_last_paragraph.html)，美國50州同性結婚一律合法！聽說票數還是很接近的5:4！
 
 Facebook上不少人把頭像加上了六色的塗層，好吧！我不知道為什麼是六個顏色（不知道就問[wiki](https://en.wikipedia.org/wiki/LGBT)），也許沒多久之後就拿掉了！但我還是想表達支持同性婚姻的立場！一個十分堅定的立場！

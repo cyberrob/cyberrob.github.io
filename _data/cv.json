@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Robert Wang",
+    "label": "Programmer",
+    "picture": "",
+    "email": "robertwang.tw@gmail.com",
+    "phone": "",
+    "website": "http://robertwang.tw",
+    "summary": "Has developed Android app for >5 years. Some projects are developed with teams, some are by myself. A raspberry Pi lover. Father of 2 kids.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Taipei",
+      "countryCode": "Taiwan",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "cyberrob",
+        "url": "https://twitter.com/cyberrob"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "robertwang",
+        "url": "http://stackoverflow.com/users/164005/robert"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Invisibi",
+      "position": "Android Programmer",
+      "website": "https://noodoe.com",
+      "startDate": "2016-05-08",
+      "endDate": "Current",
+      "summary": "Work on Kymco Noodoe project as one of starting members",
+      "highlights": [
+        "Implement service for integrating app & external bluetooth devices",
+        "Implement custom UI for displaying magnetic field & specific data about target vehicle",
+        "Implement group functions for managing member interactions"
+      ]
+    },
+    {
+      "company": "Solda Inc.",
+      "position": "Android Programmer",
+      "website": "",
+      "startDate": "2015-05",
+      "endDate": "2016-03",
+      "summary": "Developed and maintain entire Solda Android app for browsing, uploading, purchasing products from other users.",
+      "highlights": []
+    },
+    {
+      "company": "Nortek Inc.",
+      "position": "Android Programmer",
+      "website": "",
+      "startDate": "2013-04",
+      "endDate": "2015-05",
+      "summary": "Worked on various home control prototypes.",
+      "highlights": [
+        "Connecting Z-Wave modules with OpenHab running on Raspberry Pi to control different switches.",
+        "Integrate VLC & csipsimple into app that can receive live-stream from doorbell camera."
+      ]
+    },
+    {
+      "company": "JiePang",
+      "position": "Android Programmer",
+      "website": "",
+      "startDate": "2011",
+      "endDate": "2013",
+      "summary": "Developed and maintain 2 different app",
+      "highlights": [
+        "Jiepang emerged as red-hot check-in app in China.",
+        "Single-handed deliver an loyalty program app BuddyCard."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "NCTU",
+      "area": "Information management",
+      "studyType": "Master",
+      "startDate": "2004-09-01",
+      "endDate": "2006-06-30",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "FJU",
+      "area": "Information management",
+      "studyType": "Bachelor",
+      "startDate": "2000-09-01",
+      "endDate": "2004-06-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hami Apps Competition Finalist",
+      "date": "2010 ",
+      "awarder": "Hami CHT mobile",
+      "summary": "The app \"Expired When\" listed as finalist selection from thousands of participants. It lists your groceries as reminder to keep records of expire dates. Hopes to reduce wastes any precious food."
+    },
+    {
+      "title": "TravMate",
+      "date": "2009",
+      "awarder": "Galileo Competition",
+      "summary": "It enables a foreign tourist to access local socializing networks so that the tourist can interact with local friends and overcome cultural and language barriers and access local services such as dining, accommodation, transportation and recreation, etc."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Applying CCNN to Recognizing Patterns in the Time Series of TAIEX Futures",
+      "publisher": "NCTU",
+      "releaseDate": "2005",
+      "website": "https://ir.nctu.edu.tw/handle/11536/79534",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    },
+    {
+      "name": "利用G-Sensor及電子羅盤於手機定位之實驗",
+      "publisher": "ITRI ICL Journal Paper",
+      "releaseDate": "2009",
+      "website": "http://readopac1.ncl.edu.tw/nclJournal/search/detail.jsp?sysId=0006573693&dtdId=000040&search_type=detail&la=ch",
+      "summary": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Jekyll"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "level": "Master",
+      "keywords": [
+        "Location-related app",
+        "VLC",
+        "SIP",
+        "react-native"
+      ]
+    },
+    {
+      "name": "iOS",
+      "level": "Beginner",
+      "keywords": [
+        "code-review"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "intermediate - limited working proficiency"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Basketball",
+      "keywords": []
+    },
+    {
+      "name": "Piano",
+      "keywords": []
+    },
+    {
+      "name": "History & Sci-fi books",
+      "keywords": []
+    },
+    {
+      "name": "Raspberry Pi",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

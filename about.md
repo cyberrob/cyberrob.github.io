@@ -8,7 +8,7 @@ This is my personal blog trying to settled down here on Github.
 From Wretch/Pixnet to Blogger and to host a Ghost blog on Digital Ocean for about 2 yrs.
 I wrote less and less.
 
-Then I realize it's all about contents! not about formats or blog system.
+Then I realize it's about CONTENTS! not about formats or blog system.
 Only contents leave behind after media or blog system went by one after one.
 
 With enthusiasm for program development left I keep on writing.

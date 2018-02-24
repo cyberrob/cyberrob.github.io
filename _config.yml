@@ -37,8 +37,8 @@ algolia:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
-plugins: # previsously gems
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+gems:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -83,3 +83,8 @@ defaults:
     values:
       layout: post
       read_time: true
+
+# Search Settings
+search: true
+search_full_content: true
+search_provider: lunr

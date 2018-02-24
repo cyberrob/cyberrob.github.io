@@ -22,8 +22,8 @@ url: https://cyberrob.github.io
 author:
   name: Robert Wang
   twitter: cyberrob
-  picture:
-twitter_username: Cyberrob
+  picture: /assets/images/robertwang.jpg
+twitter_username: cyberrob
 github_username: cyberrob
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: # true, false (default)

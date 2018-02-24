@@ -4,9 +4,9 @@
     "label": "Programmer",
     "picture": "",
     "email": "robertwang.tw@gmail.com",
-    "phone": "",
+    "phone": "886-913936203",
     "website": "http://robertwang.tw",
-    "summary": "Has developed Android app for >5 years. Some projects are developed with teams, some are by myself. A raspberry Pi lover. Father of 2 kids.",
+    "summary": "Mainly developed Android app for >5 years. Also have fun with other languages like Python/javascript etc. Work with teams and some solo projects as freelancer. \nFather of 2 kids.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -158,6 +158,10 @@
   "languages": [
     {
       "language": "Chinese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Taiwanese",
       "fluency": "Native speaker"
     },
     {

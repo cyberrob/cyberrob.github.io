@@ -31,14 +31,15 @@
     {
       "company": "Invisibi",
       "position": "Android Programmer",
-      "website": "https://noodoe.com",
+      "website": "http://noodoe.com",
       "startDate": "2016-05-08",
       "endDate": "Current",
-      "summary": "Work on Kymco Noodoe project as one of starting members",
+      "summary": "Work on Kymco-Noodoe project as Android developer",
       "highlights": [
-        "Implement service for integrating app & external bluetooth devices",
-        "Implement custom UI for displaying magnetic field & specific data about target vehicle",
-        "Implement group functions for managing member interactions"
+        "Responsible for service of integrating app & external bluetooth devices",
+        "Implement custom UI such as displaying magnetic field & specific data about target vehicle",
+        "Design and implement tracking mechanism/ map licening module",
+        "Research for IoT alternatives for current products"
       ]
     },
     {
@@ -47,31 +48,48 @@
       "website": "",
       "startDate": "2015-05",
       "endDate": "2016-03",
-      "summary": "Developed and maintain entire Solda Android app for browsing, uploading, purchasing products from other users.",
-      "highlights": []
+      "summary": "Develop and maintain Android app",
+      "highlights": [
+        "First time join startup team",
+        "Responsible for entire Android app with function including browsing products/ sell products/ payment flow",
+        "Experience the struggles of small teams with limited resources"
+      ]
     },
     {
       "company": "Nortek Inc.",
       "position": "Android Programmer",
       "website": "",
       "startDate": "2013-04",
-      "endDate": "2015-05",
+      "endDate": "2015-04",
       "summary": "Worked on various home control prototypes.",
       "highlights": [
-        "Connecting Z-Wave modules with OpenHab running on Raspberry Pi to control different switches.",
-        "Integrate VLC & csipsimple into app that can receive live-stream from doorbell camera."
+        "Integrating Z-Wave modules with OpenHab running on Raspberry Pi to control different switches.",
+        "Implement Android app with VLC & csipsimple inside to receive live-stream from doorbell camera."
       ]
     },
     {
       "company": "JiePang",
       "position": "Android Programmer",
-      "website": "",
+      "website": "#",
       "startDate": "2011",
       "endDate": "2013",
       "summary": "Developed and maintain 2 different app",
       "highlights": [
         "Jiepang emerged as red-hot check-in app in China.",
-        "Single-handed deliver an loyalty program app BuddyCard."
+        "Single-handed deliver an loyalty program Android app BuddyCard."
+      ]
+    },
+    {
+      "company": "ITRI",
+      "position": "Software Engineer",
+      "website": "https://www.itri.org.tw/",
+      "startDate": "2007",
+      "endDate": "2011",
+      "summary": "Work on multiple projects with different skill sets like C#/Web/Android",
+      "highlights": [
+        "Implement experiment tools for manipulating data through web interface",
+        "Participate in drafting proposal for Galileo Competition and won special prize",
+        "Implement permission module for App market platform for Netbook PC running Android OS"
       ]
     }
   ],

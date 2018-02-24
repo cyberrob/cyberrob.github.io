@@ -1,4 +1,5 @@
 ---
+author: robertwang
 layout: post
 title:  "使用 shell scripts 增加版號並安裝"
 date:   2018-02-11

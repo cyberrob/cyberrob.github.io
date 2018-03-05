@@ -16,9 +16,9 @@
 lang: zh-TW, en-US
 title: Thinking in Life
 email: robertwang.tw@gmail.com
-description: 碼農十載，生活雜感。
+description: Made with <3 ❤️
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://cyberrob.github.io
+url: http://robertwang.tw
 author:
   name: Robert Wang
   twitter: cyberrob

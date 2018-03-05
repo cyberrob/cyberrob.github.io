@@ -2,8 +2,8 @@
   <div class="copyright">
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
-    {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}.</p>
+      {% else %}
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.description | default: site.description }}. {{ site.data.text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/jekyll-theme-basically-basic" rel="nofollow">basically-basic</a>.</p>
     {% endif %}
   </div>
 </footer>

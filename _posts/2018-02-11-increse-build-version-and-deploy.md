@@ -79,3 +79,23 @@ sed -i.bak -e "/apk/!s/versionCode.*/versionCode $versionCode/g" build.gradle
 測試過程其實很多都在搜尋正確的寫法，分段後測試後再組合起來跑！
 
 完成時真是通體舒暢！建議大家都來試試！當然你如果跟我一樣也有這種奇怪的測試需求...LOL
+
+
+
+最後執行結果：
+
+```shell
+$ chmod +x SCRIPT_FILE
+$ ./SCRIPT_FILE PROJECT_PATH
+##### Found match at: #####
+75:        versionCode 100
+Enter new version (ENTER): 101
+##### As you wish it will be 101 #####
+75:        versionCode 101
+##### Version changed to 101! #####
+Parallel execution with configuration on demand is an incubating feature.
+The JavaCompile.setDependencyCacheDir() method has been deprecated and is scheduled to be removed in Gradle 4.0.
+The TaskInputs.source(Object) method has been deprecated and is scheduled to be removed in Gradle 4.0. Please use TaskInputs.file(Object).skipWhenEmpty() instead.
+....
+```
+

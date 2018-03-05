@@ -97,5 +97,13 @@ Parallel execution with configuration on demand is an incubating feature.
 The JavaCompile.setDependencyCacheDir() method has been deprecated and is scheduled to be removed in Gradle 4.0.
 The TaskInputs.source(Object) method has been deprecated and is scheduled to be removed in Gradle 4.0. Please use TaskInputs.file(Object).skipWhenEmpty() instead.
 ....
+Installing APK 'app-alpha-debug-1.0.28-101.apk' on 'X9009 - 6.0' for app:alphaDebug
+Installed on 1 device.
+
+BUILD SUCCESSFUL
+
+Total time: 2 mins 12.415 secs
+Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.yyy.xxx.alpha/com.yyy.xxx.main.MainActivity }
+##### HAPPY TESTING ON VERSION 101 #####
 ```
 

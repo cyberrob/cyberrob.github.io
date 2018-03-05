@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Robert Wang",
-    "label": "Programmer",
-    "picture": "",
+    "label": "Software Engineer",
+    "picture": "/assets/images/robertwang.jpg",
     "email": "robertwang.tw@gmail.com",
     "phone": "886-913936203",
     "website": "http://robertwang.tw",
-    "summary": "Mainly developed Android app for >5 years. Also have fun with other languages like Python/javascript etc. Work with teams and some solo projects as freelancer. \nFather of 2 kids.",
+    "summary": "Developed Android app for >5 years. Also play with languages like Python/javascript etc. Work with teams and some solo projects as freelancer. Father of 2 kids.",
     "location": {
       "address": "",
       "postalCode": "",

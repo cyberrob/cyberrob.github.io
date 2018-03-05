@@ -16,9 +16,9 @@
 lang: zh-TW, en-US
 title: Life of Robert Wang
 email: robertwang.tw@gmail.com
-description: 三十碼農，生活有感
+description: Made with <3 ❤️
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: https://cyberrob.github.io
+url: http://robertwang.tw
 author:
   name: Robert Wang
   twitter: cyberrob

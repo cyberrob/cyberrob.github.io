@@ -4,10 +4,11 @@ layout: about
 author: robertwang
 ---
 
-Hi there! Here is my personal blog trying to settled down on Github.
-From Wretch/Pixnet to Blogger and to host a Ghost blog on Digital Ocean for about 2 yrs, I wrote less and less.
+Hi there! I'm Robert.
 
-Then I realize it's about CONTENTS! not about fumbling formats or blog system.
+After migrating all around internet (from Wretch/Pixnet to Blogger to Ghost blog on Digital Ocean), I've decided to settle down on Github for now. 
+
+ Realizing it's about CONTENTS! not about fumbling formats or blog system.
 Only contents leave behind after media or blog system went by one after one.
 
 With enthusiasm for program development left I try to keep on writing life journals and my technical writings.

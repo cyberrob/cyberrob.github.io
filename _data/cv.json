@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Robert Wang",
-    "label": "Software Engineer",
+    "label": "Software Developer",
     "picture": "/assets/images/robertwang.jpg",
     "email": "robertwang.tw@gmail.com",
     "phone": "886-913936203",
     "website": "http://robertwang.tw",
-    "summary": "Developed Android app for >5 years. Also play with languages like Python/javascript etc. Work with teams and some solo projects as freelancer. Father of 2 kids.",
+    "summary": "Been developed Android app for >5 years (Kotlin and Java) as both corporate member on in-house projects and freelance projects. Father of 2 kids. Yogi. Runner.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Taipei",
+      "address": "Somewhere",
+      "postalCode": "247",
+      "city": "New Taipei City",
       "countryCode": "Taiwan",
-      "region": ""
+      "region": "TW"
     },
     "profiles": [
       {
@@ -29,38 +29,38 @@
   },
   "work": [
     {
-      "company": "Invisibi",
-      "position": "Android Programmer",
+      "company": "Noodoe Inc.",
+      "position": "Principle Android Developer",
       "website": "http://noodoe.com",
-      "startDate": "2016-05-08",
+      "startDate": "May, 2016",
       "endDate": "Current",
-      "summary": "Work on Kymco-Noodoe project as Android developer",
+      "summary": "Developing Android products for both major and side projects",
       "highlights": [
-        "Responsible for service of integrating app & external bluetooth devices",
-        "Implement custom UI such as displaying magnetic field & specific data about target vehicle",
-        "Design and implement tracking mechanism/ map licening module",
-        "Research for IoT alternatives for current products"
+        "Deliver 3 major versions of KYMCO-Noode app with features like social/journey/safety/music",
+        "Involve in logistics app and vehicle-rental project as developer and coordinator",
+        "Also responsible for CI maintenance and code reviewer",
+        "Running Scrum weekly with Jira/Confluence/Slack"
       ]
     },
     {
       "company": "Solda Inc.",
       "position": "Android Programmer",
       "website": "",
-      "startDate": "2015-05",
-      "endDate": "2016-03",
+      "startDate": "March, 2015",
+      "endDate": "March, 2016",
       "summary": "Develop and maintain Android app",
       "highlights": [
         "First time join startup team",
         "Responsible for entire Android app with function including browsing products/ sell products/ payment flow",
-        "Experience the struggles of small teams with limited resources"
+        "Learn the struggles of startup team with limited resources"
       ]
     },
     {
       "company": "Nortek Inc.",
-      "position": "Android Programmer",
+      "position": "Android Developer",
       "website": "",
-      "startDate": "2013-04",
-      "endDate": "2015-04",
+      "startDate": "Jul, 2013",
+      "endDate": "Feb, 2015",
       "summary": "Worked on various home control prototypes.",
       "highlights": [
         "Integrating Z-Wave modules with OpenHab running on Raspberry Pi to control different switches.",
@@ -68,39 +68,38 @@
       ]
     },
     {
-      "company": "JiePang",
-      "position": "Android Programmer",
+      "company": "Wozai",
+      "position": "Android Developer",
       "website": "#",
-      "startDate": "2011",
-      "endDate": "2013",
+      "startDate": "Jan, 2011",
+      "endDate": "Jun, 2013",
       "summary": "Developed and maintain 2 different app",
       "highlights": [
         "Jiepang emerged as red-hot check-in app in China.",
-        "Single-handed deliver an loyalty program Android app BuddyCard."
+        "Single-handedly deliver an loyalty program app BuddyCard."
       ]
     },
     {
       "company": "ITRI",
       "position": "Software Engineer",
       "website": "https://www.itri.org.tw/",
-      "startDate": "2007",
-      "endDate": "2011",
+      "startDate": "Jan, 2007",
+      "endDate": "Oct, 2011",
       "summary": "Work on multiple projects with different skill sets like C#/Web/Android",
       "highlights": [
         "Implement experiment tools for manipulating data through web interface",
-        "Participate in drafting proposal for Galileo Competition and won special prize",
+        "Draft proposal documents for Galileo Competition and won special prize",
         "Implement permission module for App market platform for Netbook PC running Android OS"
       ]
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "NCTU",
       "area": "Information management",
       "studyType": "Master",
-      "startDate": "2004-09-01",
-      "endDate": "2006-06-30",
+      "startDate": "Sep 1, 2004",
+      "endDate": "Jun 30, 2006",
       "gpa": "",
       "courses": []
     },
@@ -108,8 +107,8 @@
       "institution": "FJU",
       "area": "Information management",
       "studyType": "Bachelor",
-      "startDate": "2000-09-01",
-      "endDate": "2004-06-30",
+      "startDate": "Sep 1, 2000",
+      "endDate": "Jun 30, 2004",
       "gpa": "",
       "courses": []
     }
@@ -156,20 +155,48 @@
       ]
     },
     {
+      "name": "git",
+      "level": "intermediate",
+      "keywords": [
+        "rebase",
+        "cherry-pick",
+        "terminal"
+      ]
+    },
+    {
+      "name": "Scrum",
+      "level": "intermediate",
+      "keywords": [
+        "confluence",
+        "jira",
+        "trello",
+        "standup-meeting"
+      ]
+    },
+    {
       "name": "Android Development",
       "level": "Master",
       "keywords": [
-        "Location-related app",
+        "Location-based app",
+        "Kotlin",
+        "MVP",
+        "MVVM",
+        "RxJava",
+        "Room",
         "VLC",
         "SIP",
-        "react-native"
+        "Firebase",
+        "CircleCI",
+        "OneSignal",
+        "Crashlytics"
       ]
     },
     {
       "name": "iOS",
       "level": "Beginner",
       "keywords": [
-        "code-review"
+        "calculator",
+        "cs193p"
       ]
     }
   ],
@@ -209,5 +236,14 @@
       "keywords": []
     }
   ],
-  "references": []
+  "references": [
+    {
+      "name": " KYMCO-Noodoe",
+      "reference": "hello"
+    },
+    {
+      "name": " Nannette Nananacci",
+      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
 }

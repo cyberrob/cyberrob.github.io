@@ -236,18 +236,5 @@
       "keywords": []
     }
   ],
-  "references": [
-    {
-      "name": " KYMCO-Noodoe",
-      "reference": "https://play.google.com/store/apps/details?id=com.noodoe.sunray"
-    },
-    {
-      "name": " Vehicle-renting user app",
-      "reference": "https://play.google.com/store/apps/details?id=com.noodoe.ttgUser"
-    },
-    {
-      "name": " Vehicle-renting owner app",
-      "reference": "https://play.google.com/store/apps/details?id=com.noodoe.ttgAgent"
-    }
-  ]
+  "references": []
 }

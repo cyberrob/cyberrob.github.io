@@ -6,7 +6,7 @@
     "email": "robertwang.tw@gmail.com",
     "phone": "886-913936203",
     "website": "http://robertwang.tw",
-    "summary": "Develope Android app for >5 years (Kotlin and Java) for both in-house/freelance projects. LOVE ❤️developing touchable product to make life easier instead of harder. The hard part is to communicate and I try to be nice. Father of 2 kids. Yogi. Runner.",
+    "summary": "Develope Android app for >5 years (Kotlin and Java) for both in-house/freelance projects. LOVE ❤️developing touchable product to make life easier instead of harder. The hard part is to communicate and I try to be nice. Also happen to be Bullet Journalist, Yogi, Runner, Father of 2 kids.",
     "location": {
       "address": "Somewhere",
       "postalCode": "247",
@@ -38,20 +38,20 @@
       "highlights": [
         "Develop 3 major versions of KYMCO-Noode app with features like social/journey/safety/music",
         "Develop battery-logistics app and vehicle-rental app",
-        "Also responsible for CI maintenance and code reviewer",
+        "Responsible for CI maintenance and use CircleCI also",
         "Running Scrum weekly with Jira/Confluence/Slack"
       ]
     },
     {
       "company": "Solda Inc.",
-      "position": "Android Programmer",
+      "position": "Android Developer",
       "website": "https://www.google.com/search?q=solda",
       "startDate": "March, 2015",
       "endDate": "March, 2016",
       "summary": "Develop and maintain Android app",
       "highlights": [
         "First time join startup team",
-        "Responsible for entire Android app with function including browsing products/ sell products/ payment flow",
+        "Develop Android app with features including browsing, sell products and payment integration",
         "Learn the struggles of startup team with limited resources"
       ]
     },

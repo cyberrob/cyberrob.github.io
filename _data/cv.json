@@ -6,7 +6,7 @@
     "email": "robertwang.tw@gmail.com",
     "phone": "886-913936203",
     "website": "http://robertwang.tw",
-    "summary": "Been developed Android app for >5 years (Kotlin and Java) as both corporate member on in-house projects and freelance projects. Father of 2 kids. Yogi. Runner.",
+    "summary": "Develope Android app for >5 years (Kotlin and Java) for both in-house/freelance projects. LOVE ❤️developing touchable product to make life easier instead of harder. The hard part is to communicate and I try to be nice. Father of 2 kids. Yogi. Runner.",
     "location": {
       "address": "Somewhere",
       "postalCode": "247",
@@ -34,10 +34,10 @@
       "website": "http://noodoe.com",
       "startDate": "May, 2016",
       "endDate": "Current",
-      "summary": "Developing Android products for both major and side projects",
+      "summary": "Coordinate with PM and designer to deliver better Android products",
       "highlights": [
-        "Deliver 3 major versions of KYMCO-Noode app with features like social/journey/safety/music",
-        "Involve in logistics app and vehicle-rental project as developer and coordinator",
+        "Develop 3 major versions of KYMCO-Noode app with features like social/journey/safety/music",
+        "Develop battery-logistics app and vehicle-rental app",
         "Also responsible for CI maintenance and code reviewer",
         "Running Scrum weekly with Jira/Confluence/Slack"
       ]
@@ -235,6 +235,5 @@
       "name": "Raspberry Pi",
       "keywords": []
     }
-  ],
-  "references": []
+  ]
 }

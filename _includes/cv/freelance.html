@@ -1,0 +1,38 @@
+{% if cv.freelance-project %}
+  <div id="work" class="entry">
+    <header class="entry-header">
+      <h3 class="entry-title">Freelance Project</h3>
+    </header>
+
+    <div class="entry-content">
+      {% for f in cv.freelance-project %}
+        {% if f.name %}
+          <h3 class="name">
+            {% if f.website %}
+              <a href="{{ w.website }}">{{ f.name }}</a>
+            {% else %}
+              {{ f.project_name }}
+            {% endif %}
+          </h3>
+        {% endif %}
+        <div class="date">
+          {% if f.date %}
+            <span class="startDate">{{ w.date }}</span>
+          {% endif %}
+        </div>
+        {% if f.summary %}
+          <div class="summary">
+            <p>{{ f.summary }}</p>
+          </div>
+        {% endif %}
+        {% if f.highlights %}
+          <ul class="highlights">
+            {% for highlight in f.highlights %}
+              <li>{{ highlight }}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

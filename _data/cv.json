@@ -93,6 +93,44 @@
       ]
     }
   ],
+  "freelance-project": [
+    {
+      "name": "Code4Green",
+      "website": "http://robertwang.tw",
+      "date": "2016",
+      "summary": "A score-recording app for Golf players",
+      "highlights": [
+        "Cloned functions in iOS app as standalone Android App by myself"
+      ]
+    },
+    {
+      "name": "NewsSpur",
+      "website": "https://www.ereo-creatives.com/",
+      "date": "2014",
+      "summary": "A mobile app for witnessing event on site",
+      "highlights": [
+        "Partnered with friends to help delivering Android app for their client"
+      ]
+    },
+    {
+      "name": "Buildant",
+      "website": "",
+      "date": "2013",
+      "summary": "A tablet app for managing work hour at construction site",
+      "highlights": [
+        "Worked with owners from U.S to deliver a prototype for their client"
+      ]
+    },
+    {
+      "name": "App Generator",
+      "website": "",
+      "date": "2010",
+      "summary": "A app for bank customer service",
+      "highlights": [
+        "Using C# to generate multiple Android apps for different banks as customer service auto-dialing app"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "NCTU",

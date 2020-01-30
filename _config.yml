@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: zh-TW, en-US
-title: The Code Watcher
+title: Fresh 2020
 email: robertwang.tw@gmail.com
 description: Robert Wang
 baseurl: # the optional subpath of your site, e.g. "/blog"

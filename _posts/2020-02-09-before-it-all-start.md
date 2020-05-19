@@ -1,7 +1,7 @@
 ---
 author: robertwang
 layout: post
-title:  "在報到之前"
+title:  "寫寫在報到之前"
 date:   2020-02-09
 categories: 生活 iPad
 

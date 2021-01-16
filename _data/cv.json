@@ -29,11 +29,27 @@
   },
   "work": [
     {
+      "company": "Next Bank",
+      "position": "Principle Android Developer",
+      "website": "https://www.nextbank.com.tw",
+      "startDate": "Feb, 2020",
+      "endDate": "Current",
+      "summary": "Deliver and maintain solid & smooth Android app experiences with product owner and multiple financial backend systems.",
+      "highlights": [
+        "Coaching team members to improve skillsets through regular code review and sharing mindset",
+        "Running Scrum mostly and helping clarify and define specs",
+        "Work with outsourced workers to deliver maintainable code",
+        "Provide and maintain several solid base components for feature development including SDK integration/DialogUtil/cross-fragment data sharing mechanism/BaseToolbar",
+        "Develop a background expiration timer to monitor user interaction",
+        "Try to have fun figuring out how Azure Devops CI pipeline and policies works"
+      ]
+    },
+    {
       "company": "Noodoe Inc.",
       "position": "Principle Android Developer",
       "website": "http://noodoe.com",
       "startDate": "May, 2016",
-      "endDate": "Current",
+      "endDate": "Jan, 2020",
       "summary": "Coordinate with PM and designer to deliver better Android products",
       "highlights": [
         "Develop 3 major versions of KYMCO-Noode app with features like social/journey/safety/music",

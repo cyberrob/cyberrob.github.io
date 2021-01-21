@@ -18,7 +18,7 @@ title: Robert Notes
 email: robert.ong@protonmailcom
 description: Robert Wang
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: http://www.robertnotes.com
+url: https://www.robertnotes.com
 author:
   name: Robert Wang
   twitter: cyberrob
@@ -88,3 +88,6 @@ defaults:
 search: true
 search_full_content: true
 search_provider: lunr
+
+# Google Analytics
+google_analytics: UA-187865907-1 

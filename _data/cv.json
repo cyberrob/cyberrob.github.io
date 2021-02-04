@@ -5,7 +5,7 @@
     "picture": "/assets/images/robertwang.jpg",
     "email": "robert.ong@protonmail.com",
     "website": "https://www.robertnotes.com",
-    "summary": "Develope Android app for >5 years (Kotlin and Java) for both in-house/freelance projects. LOVE ❤️developing touchable product to make life easier instead of harder. The hard part is to communicate and I try to be nice. Also happen to be Bullet Journalist, Yogi, Runner, Father of 2 kids.",
+    "summary": "Develope Android app for >5 years (Kotlin and Java) for both in-house/freelance projects. LOVE❤️ developing products to make life easier NOT harder. My philosiphy is get things done and get home early because that's what heros do(quotes from Rework). The hardest part in life is to communicate and I try to be nice. Also happen to be Bullet Journalist, Yogi, Runner, Father of 2 kids.",
     "location": {
       "address": "Somewhere",
       "postalCode": "247",
@@ -131,9 +131,9 @@
       "name": "Buildant",
       "website": "",
       "date": "2013",
-      "summary": "A tablet app for managing work hour at construction site",
+      "summary": "A tablet-only app for managing work hour at construction site",
       "highlights": [
-        "Worked with owners from U.S to deliver a prototype for their client"
+        "Worked with U.S owners to deliver a prototype for their client"
       ]
     },
     {
@@ -209,11 +209,12 @@
     },
     {
       "name": "git",
-      "level": "intermediate",
+      "level": "Mastered",
       "keywords": [
         "rebase",
         "cherry-pick",
-        "terminal"
+        "terminal",
+        "oh-my-zsh"
       ]
     },
     {
@@ -228,7 +229,7 @@
     },
     {
       "name": "Android Development",
-      "level": "Master",
+      "level": "Mastered",
       "keywords": [
         "Location-based app",
         "Kotlin",
@@ -241,7 +242,8 @@
         "Firebase",
         "CircleCI",
         "OneSignal",
-        "Crashlytics"
+        "Crashlytics",
+        "Flutter(Basic)"
       ]
     },
     {
@@ -250,6 +252,14 @@
       "keywords": [
         "calculator",
         "cs193p"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": [
+        "Daily-Challenge",
+        "Django"
       ]
     }
   ],

@@ -29,7 +29,7 @@
   "work": [
     {
       "company": "Next Bank",
-      "position": "Principle Android Developer",
+      "position": "Principal Android Developer",
       "website": "https://www.nextbank.com.tw",
       "startDate": "Feb, 2020",
       "endDate": "Current",
@@ -37,7 +37,7 @@
       "highlights": [
         "Coaching team members to improve skillsets through regular code review and sharing mindset",
         "Running Scrum mostly and helping clarify and define specs",
-        "Work with outsourced workers to deliver maintainable code",
+        "Work with 3rd party workers to deliver maintainable code",
         "Provide and maintain several solid base components for feature development including SDK integration/DialogUtil/cross-fragment data sharing mechanism/BaseToolbar",
         "Develop a background expiration timer to monitor user interaction",
         "Try to have fun figuring out how Azure Devops CI pipeline and policies works"

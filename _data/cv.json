@@ -5,9 +5,9 @@
     "picture": "/assets/images/robertwang.jpg",
     "email": "robert.ong@protonmail.com",
     "website": "https://www.robertnotes.com",
-    "summary": "Develope Android app since Android 1.5 (both Java and Kotlin) for several in-house/freelance projects. LOVE❤️ developing products to make life easier NOT the other around. My philosiphy is get things done and get home early because that's what heros do(quotes from the book \"Rework\"). The hardest part in life is to communicate and I try to be nice and patient. Also happen to be bullet journalist, trying-to-be minimalist, Yogi, Runner, Father of 2 kids.",
+    "summary": "Develope Android app since Android 1.5 (both Java and Kotlin) for several in-house/freelance projects. LOVE❤️ developing products to make life easier NOT the other way around. My philosiphy is get things done and get home early because that's what heros do(quotes from the book \"Rework\"). The hardest part in life is to communicate and I try to be nice and patient. Also happen to be bullet journalist, trying-to-be minimalist, Yogi, Runner, Father of 2 kids.",
     "location": {
-      "address": "Guess where",
+      "address": "",
       "postalCode": "247",
       "city": "New Taipei City",
       "countryCode": "Taiwan",
@@ -46,7 +46,7 @@
     {
       "company": "Noodoe Inc.",
       "position": "Principle Android Developer",
-      "website": "http://noodoe.com",
+      "website": "https://play.google.com/store/apps/details?id=com.noodoe.sunray&hl=en_CA&gl=US",
       "startDate": "May, 2016",
       "endDate": "Jan, 2020",
       "summary": "Coordinate with PM and designer to deliver better Android products",
@@ -300,3 +300,4 @@
     }
   ]
 }
+  

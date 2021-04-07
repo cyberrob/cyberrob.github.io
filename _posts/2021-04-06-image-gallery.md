@@ -10,4 +10,6 @@ lightbox_captions: true
 ### See how to show images w/o plugins.
 2 images under /_albums/app/
 
-{% raw %}{% include image-gallery.html folder="/_albums/app/" %}{% endraw %}
+{% include image-gallery.html folder="/_albums/app/" %}
+
+hello world??

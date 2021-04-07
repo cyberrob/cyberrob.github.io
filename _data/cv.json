@@ -8,10 +8,10 @@
     "summary": "Develope Android app since Android 1.5 (both Java and Kotlin) for several in-house/freelance projects. LOVE❤️ developing products to make life easier NOT the other way around. My philosiphy is get things done and get home early because that's what heros do(quotes from the book \"Rework\"). The hardest part in life is to communicate and I try to be nice and patient. Also happen to be bullet journalist, trying-to-be minimalist, Yogi, Runner, Father of 2 kids.",
     "location": {
       "address": "Just outside of the city",
-      "postalCode": "247",
+      "postalCode": "",
       "city": "New Taipei City",
       "countryCode": "Taiwan",
-      "region": "TW"
+      "region": "GMT+8"
     },
     "profiles": [
       {
@@ -36,9 +36,9 @@
       "summary": "Deliver and maintain solid & smooth Android app experiences with product owner and multiple financial backend systems.",
       "highlights": [
         "Coaching team members to improve skillsets through regular code review and sharing mindset",
-        "Running Scrum mostly and helping clarify and define specs",
-        "Work with 3rd party workers to deliver maintainable code",
-        "Provide and maintain several solid base components for feature development including SDK integration/DialogUtil/cross-fragment data sharing mechanism/BaseToolbar",
+        "Running Scrum mostly and helping clarify and define  specs",
+        "Coordinating with an out-sourcing team of 6 members to deliver maintainable code",
+        "Provide and maintain several solid base components for feature development including SDK integration/DialogUtil/cross-fragment data sharing mechanism/BaseToolbar with unit tests",
         "Develop a background expiration timer to monitor user interaction",
         "Try to have fun figuring out how Azure Devops CI pipeline and policies works"
       ]

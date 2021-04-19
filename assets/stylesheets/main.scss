@@ -8,3 +8,12 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+// Centering images in post and resize to 50%
+.center-image
+{
+   width: 50%;
+   height: 50%;
+   margin: 0 auto;
+   display: block;
+}

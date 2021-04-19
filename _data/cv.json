@@ -54,8 +54,9 @@
         "Develop 3 major versions of KYMCO-Noode app with features like navigation/social/journey/safety/music that are connected with scooter dashboard via Bluetooth",
         "Develop battery-logistics app and vehicle-rental app",
         "Responsible for CI maintenance and use CircleCI also",
-        "Running Scrum via Jira/Confluence/Slack"
-      ]
+        "Running Scrum via Jira/Confluence/Slack",
+        “https://www.robertnotes.com/posts/2020-01-15-noodoe-experience”      
+        ]
     },
     {
       "company": "Solda Inc.",

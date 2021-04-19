@@ -33,7 +33,7 @@
       "website": "https://www.nextbank.com.tw",
       "startDate": "Feb, 2020",
       "endDate": "Current",
-      "summary": "Deliver and maintain solid & smooth Android app experiences with product owner, financial system PMs and financial product teams",
+      "summary": "Delivered and maintained solid & smooth Android app experiences with product owner, financial system PMs and financial product teams",
       "highlights": [
         "Coaching team members to improve skillsets through regular code review and sharing mindset",
         "Running Scrum mostly and helping PO clarify and define specs",
@@ -49,14 +49,18 @@
       "website": "https://play.google.com/store/apps/details?id=com.noodoe.sunray&hl=en_CA&gl=US",
       "startDate": "May, 2016",
       "endDate": "Jan, 2020",
-      "summary": "Coordinate with PM and designer to deliver better Android products",
+      "summary": "Coordinated with PM and designer to deliver better Android products",
       "highlights": [
         "Develop 3 major versions of KYMCO-Noode app with features like navigation/social/journey/safety/music that are connected with scooter dashboard via Bluetooth",
         "Develop battery-logistics app and vehicle-rental app",
         "Responsible for CI maintenance and use CircleCI also",
         "Running Scrum via Jira/Confluence/Slack",
-        “https://www.robertnotes.com/posts/2020-01-15-noodoe-experience”      
-        ]
+        {
+          "content": "For more details please check out this post",
+          "isSelfDomain": true,
+          "link": "/noodoe,/work,/kotlin,/journey,/bluetooth,/compass,/navigation,/dashboard/2020/01/15/noodoe-experience.html"
+        }
+      ]
     },
     {
       "company": "Solda Inc.",
@@ -64,7 +68,7 @@
       "website": "https://www.google.com/search?q=solda",
       "startDate": "March, 2015",
       "endDate": "March, 2016",
-      "summary": "Develop and maintain Android app",
+      "summary": "Developed and maintained Android app",
       "highlights": [
         "First time join startup team",
         "Develop Android app with features including browsing, sell products and payment integration",

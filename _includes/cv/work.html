@@ -36,7 +36,15 @@
         {% if w.highlights %}
           <ul class="highlights">
             {% for highlight in w.highlights %}
-              <li>{{ highlight }}</li>
+              {% if highlight.link %}
+                {% if highlight.isSelfDomain %}
+                  <li><a href="{{ site.url }}{{ highlight.link }}" target="_blank">{{ highlight.content }}</a></li>
+                {% else %}
+                  <li><a href="{{ highlight.link }}" target="_blank">{{ highlight.content }}</a></li>
+                {% endif %}
+              {% else %}
+               <li>{{ highlight }}</li>
+              {% endif %}
             {% endfor %}
           </ul>
         {% endif %}

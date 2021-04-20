@@ -70,9 +70,19 @@
       "endDate": "March, 2016",
       "summary": "Developed and maintained Android app",
       "highlights": [
-        "First time join startup team",
+        "First time join small startup team",
         "Develop Android app with features including browsing, sell products and payment integration",
-        "Learn the struggles of startup team with limited resources"
+        "Learn the struggles of startup team with limited resources",
+        {
+          "content": "媒體報導: 行動拍賣新戰場，KKBOX 推出 KKTOWN 二手拍賣",
+          "link": "https://www.inside.com.tw/article/5466-kktown-the-new-c2c-e-commerce-app-of-kkbox",
+          "isSelfDomain": false
+        },
+        {
+          "content": "媒體報導: 用交易探索世界：台灣行動電商平台「SOLDA 手打拍賣」完全體今上架",
+          "link": "https://www.inside.com.tw/article/4565-solda",
+          "isSelfDomain": false
+        }
       ]
     },
     {
@@ -88,14 +98,18 @@
       ]
     },
     {
-      "company": "Wozai",
+      "company": "Wozai Company",
       "position": "Android Developer",
       "website": "https://www.google.com/search?q=jiepang",
       "startDate": "Jan, 2011",
       "endDate": "Jun, 2013",
-      "summary": "Developed and maintain 2 different app",
+      "summary": "Developed and maintained Jiepang and BuddyCard app",
       "highlights": [
-        "Jiepang emerged as red-hot check-in app in China.",
+        {
+          "content": "Developed timeline/check-in/profile features for Jiepang app mainly target for Chinese users.",
+          "link": "https://apkpure.com/cn/%E8%A1%97%E6%97%81-jiepang/com.jiepang.android",
+          "isSelfDomain": false
+        },
         "Single-handedly deliver an loyalty program app BuddyCard."
       ]
     },

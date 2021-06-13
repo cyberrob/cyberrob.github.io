@@ -1,13 +1,14 @@
 ---
 author: robertwang
 layout: post
-title:  "Mute/ Unmute Mic on Mac"
+title:  "Quickly mute and unmute mic on Mac"
 date:   2021-06-11
 
 
 ---
 
-During #WFH , are you sick of constantly mute and unmute your microphone? Find mute button in app after app? #MicrosoftTeams ? #GoogleMeet ? #CiscoWebEx ?
+ 
+During #pandemic you’re #WFH , are you sick of constantly mute and unmute your microphone in the meeting? Keep looking for mute button in app after app? #MicrosoftTeams ? Or #GoogleMeet ? #CiscoWebEx ?
 
 Don’t bother anymore. Here’s a quick setup then you’re ONE hotkey away from mute or unmute your microphone **across entire Mac**.
 
@@ -26,3 +27,5 @@ Done.
 Enjoy your peace of mind and remember to unmute when someone starting to talk!
 
 I’m enjoying my peace of mind. Hope it works for you too! 
+
+Wondering if there’s a hotkey for iPad?

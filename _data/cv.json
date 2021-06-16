@@ -3,21 +3,21 @@
     "name": "Robert Wang",
     "label": "Software Developer",
     "picture": "/assets/images/robertwang.jpg",
-    "email": "robert.ong@protonmail.com",
+    "email": "robert.ong+contact@protonmail.com",
     "website": "https://www.robertnotes.com",
     "summary": "Develope Android app since Android 1.5 (both Java and Kotlin) for several in-house/freelance projects. LOVE❤️ developing products to make life easier NOT the other way around. My philosiphy is get things done and get home early because that's what heros do(quotes from the book \"Rework\"). The hardest part in life is to communicate and I try to be nice and patient. Also happen to be bullet journalist, trying-to-be minimalist, Yogi, Runner, Father of 2 kids.",
     "location": {
-      "address": "Just outside of the city",
+      "address": "",
       "postalCode": "",
-      "city": "New Taipei City",
-      "countryCode": "Taiwan",
+      "city": "Taipei",
+      "countryCode": "TW",
       "region": "GMT+8"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "Github",
         "username": "cyberrob",
-        "url": "https://twitter.com/cyberrob"
+        "url": "https://github.com/cyberrob"
       },
       {
         "network": "StackOverflow",
